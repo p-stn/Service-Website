@@ -1,4 +1,4 @@
-# Service-Website-Template
+# Service-Website
 ## [Demo Project](https://p-stn.github.io/Service-Website-Template/)
 
 ![photo-servis](https://github.com/p-stn/Service-Website-Template/assets/63667741/7b61e7fd-311d-4f54-88e4-255751b53f25)
